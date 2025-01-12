@@ -1,1 +1,4 @@
 DEFAULT_FOLDER = crkbd/rev1
+LAYER_LOCK_ENALBE = yes
+MOUSEKEY_ENABLE = yes
+
